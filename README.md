@@ -3,6 +3,6 @@ Zmiany: nowy typ asteroidy: zdjęcie kota-przycisk 8 na klawiaturze, nowy typ br
 
 <p align="center">
   <img src="..." alt="Demo" width="500"/>
-  ![Demo](https://github.com/kala2137/lab1_198009/blob/main/gra_gif.gif)
 
 </p>
+![Demo](https://github.com/kala2137/lab1_198009/blob/main/gra_gif.gif)
